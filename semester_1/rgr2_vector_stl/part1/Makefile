@@ -1,3 +1,6 @@
-part1:
+all:
 	g++ -Wall -Wextra -fsanitize=address,undefined,leak main.cpp -o main.out
 	./main.out
+
+clean:
+	rm -f main.out
