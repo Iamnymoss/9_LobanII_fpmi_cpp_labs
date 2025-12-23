@@ -1,0 +1,13 @@
+1 WarAndPeace
+1869
+2
+Tolstoy Leo -
+Ivanov Ivan Ivanovich
+2 AnnaKarenina
+1877
+1
+Tolstoy Leo -
+3 Example
+2000
+1
+Petrov Petr Petrovich
